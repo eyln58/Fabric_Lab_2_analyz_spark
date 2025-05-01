@@ -1,4 +1,4 @@
-# Microsoft Fabric - Analyze Data with Apache Spark (Lab 2)
+# Microsoft Fabric - Analyze Data with Apache Spark 
 
 In this lab, I explored how to use Apache Spark in Microsoft Fabric to read, transform, analyze, and visualize structured data. I worked with CSV files stored in a Lakehouse, used PySpark to manipulate data, and generated insights using both SQL queries and Python visualizations.
 
